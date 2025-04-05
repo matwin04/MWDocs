@@ -11,8 +11,8 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Express Media Manager
+      link: /personal/ExpressMediaManager
 
 features:
   - title: Feature A
