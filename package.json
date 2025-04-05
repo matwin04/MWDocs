@@ -21,5 +21,8 @@
     "url": "https://github.com/matwin04/MWDocs/issues"
   },
   "homepage": "https://github.com/matwin04/MWDocs#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "vitepress": "^1.6.3"
+  }
 }
