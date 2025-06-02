@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4d74c540e3ee061f",
+        "id": "c7993a2c84afe464",
         "type": "tabs",
         "children": [
           {
-            "id": "cecac5f4559d6f0e",
+            "id": "02de0050d2d35000",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/markdown-examples.md",
-                "mode": "source",
-                "source": false
+                "file": "api-examples.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "markdown-examples"
+              "title": "api-examples"
+            }
+          },
+          {
+            "id": "76fe8378cf024d83",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://catalog.cpp.edu/preview_program.php?catoid=68&poid=18742",
+                "title": "Program: Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option: 120 units - Cal Poly Pomona - Modern Campus Catalog™",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Program: Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option: 120 units - Cal Poly Pomona - Modern Campus Catalog™"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#POLT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "467a04f8cd2fb93a",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/markdown-examples.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for markdown-examples"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/markdown-examples.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from markdown-examples"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,20 +157,45 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/markdown-examples.md",
+                "file": "Common Mistakes In C++ Vectors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of markdown-examples"
+              "title": "Outline of Common Mistakes In C++ Vectors"
+            }
+          },
+          {
+            "id": "2069620422f68634",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4eb5071cc3fa50ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -165,11 +205,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "cecac5f4559d6f0e",
+  "active": "02de0050d2d35000",
   "lastOpenFiles": [
-    "docs/personal/HTMLGuide.md"
+    "node_modules/character-entities-legacy/readme.md",
+    "node_modules/character-entities-legacy/index.js",
+    "node_modules/character-entities-legacy/license",
+    "node_modules/character-entities-legacy/package.json",
+    "node_modules/character-entities-legacy/index.d.ts",
+    "node_modules/character-entities-legacy",
+    "node_modules/@esbuild/darwin-arm64/bin/esbuild",
+    "node_modules/@esbuild/darwin-arm64/package.json",
+    "node_modules/@esbuild/darwin-arm64/bin",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/@esbuild/darwin-arm64",
+    "node_modules/@esbuild",
+    "node_modules/mitt/README.md",
+    "node_modules/source-map-js/README.md",
+    "node_modules/fsevents/README.md",
+    "node_modules/birpc/README.md",
+    "node_modules/copy-anything/README.md",
+    "node_modules/entities/readme.md",
+    "node_modules/search-insights/README.md",
+    "node_modules/search-insights/LICENSE.md",
+    "node_modules/focus-trap/SECURITY.md",
+    "node_modules/focus-trap/README.md",
+    "node_modules/focus-trap/CHANGELOG.md",
+    "node_modules/character-entities-html4/readme.md",
+    "node_modules/@vueuse/integrations/README.md",
+    "node_modules/speakingurl/README.md",
+    "node_modules/speakingurl/CHANGELOG.md",
+    "node_modules/dequal/readme.md",
+    "node_modules/@jridgewell/sourcemap-codec/README.md",
+    "node_modules/mdast-util-to-hast/readme.md",
+    "node_modules/unist-util-visit/readme.md",
+    "node_modules/trim-lines/readme.md",
+    "node_modules/esbuild/README.md",
+    "node_modules/esbuild/LICENSE.md",
+    "node_modules/oniguruma-to-es/README.md",
+    "node_modules/vfile-message/readme.md",
+    "docs/public/m.svg",
+    "docs/public/images/osaka6.gif",
+    "docs/public/images/osaka5.gif",
+    "docs/public/images/osaka4.gif",
+    "docs/public/images/osaka3.gif",
+    "docs/public/images/osaka2.gif",
+    "docs/public/images/joel.webp",
+    "docs/public/images/ninja.jpeg",
+    "docs/public/images/fren.gif",
+    "docs/public/images/joel2.gif",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
