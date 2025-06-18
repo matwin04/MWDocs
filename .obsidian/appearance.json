@@ -1,1 +1,6 @@
-{}
+{
+  "accentColor": "#ffa200",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font",
+  "interfaceFontFamily": "FreeSans",
+  "cssTheme": "Obsidian Nord"
+}

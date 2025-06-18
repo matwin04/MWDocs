@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7993a2c84afe464",
+        "id": "2f34fbe9d882deec",
         "type": "tabs",
         "children": [
           {
-            "id": "02de0050d2d35000",
+            "id": "c6c4fd410fb7ee8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "api-examples.md",
-                "mode": "preview",
-                "source": true
+                "file": "API Docs for public transportation.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "api-examples"
-            }
-          },
-          {
-            "id": "76fe8378cf024d83",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://catalog.cpp.edu/preview_program.php?catoid=68&poid=18742",
-                "title": "Program: Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option: 120 units - Cal Poly Pomona - Modern Campus Catalog™",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Program: Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option: 120 units - Cal Poly Pomona - Modern Campus Catalog™"
+              "title": "API Docs for public transportation"
             }
           }
         ]
@@ -92,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "467a04f8cd2fb93a",
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Mistakes In C++ Vectors.md",
-                "followCursor": false,
+                "file": "API Docs for public transportation.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Common Mistakes In C++ Vectors"
+              "title": "Outline of API Docs for public transportation"
             }
           },
           {
@@ -172,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -186,8 +171,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -195,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,24 +189,41 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "02de0050d2d35000",
+  "active": "b5ece34fb104add9",
   "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20250616094534.png",
+    "Pasted image 20250616103214.png",
+    "The Situation.canvas",
+    "School/COM101/Homework/10PersuasionTopics.md",
+    "School/COM101/Homework.md",
+    "School/COM101/Homework/5 Text Articles.md",
+    "School/COM101/COM101.md",
+    "Homework",
+    "School/COM101/Homework",
+    "docs/api-examples.md",
+    "API Docs for public transportation.md",
+    "routes/r-9q5c-metrokline.md",
+    "docs/markdown-examples.md",
+    "School/School Index.md",
+    "School/Untitled.md",
+    "School/School Index 1.md",
+    "School/COM101",
+    "School",
+    "docs/index.md",
+    "docs/about.md",
+    "docs/public/m.svg",
+    "routes",
     "node_modules/character-entities-legacy/readme.md",
     "node_modules/character-entities-legacy/index.js",
     "node_modules/character-entities-legacy/license",
     "node_modules/character-entities-legacy/package.json",
     "node_modules/character-entities-legacy/index.d.ts",
     "node_modules/character-entities-legacy",
-    "node_modules/@esbuild/darwin-arm64/bin/esbuild",
-    "node_modules/@esbuild/darwin-arm64/package.json",
-    "node_modules/@esbuild/darwin-arm64/bin",
     "node_modules/@esbuild/darwin-arm64/README.md",
-    "node_modules/@esbuild/darwin-arm64",
-    "node_modules/@esbuild",
     "node_modules/mitt/README.md",
     "node_modules/source-map-js/README.md",
     "node_modules/fsevents/README.md",
@@ -233,21 +234,6 @@
     "node_modules/search-insights/LICENSE.md",
     "node_modules/focus-trap/SECURITY.md",
     "node_modules/focus-trap/README.md",
-    "node_modules/focus-trap/CHANGELOG.md",
-    "node_modules/character-entities-html4/readme.md",
-    "node_modules/@vueuse/integrations/README.md",
-    "node_modules/speakingurl/README.md",
-    "node_modules/speakingurl/CHANGELOG.md",
-    "node_modules/dequal/readme.md",
-    "node_modules/@jridgewell/sourcemap-codec/README.md",
-    "node_modules/mdast-util-to-hast/readme.md",
-    "node_modules/unist-util-visit/readme.md",
-    "node_modules/trim-lines/readme.md",
-    "node_modules/esbuild/README.md",
-    "node_modules/esbuild/LICENSE.md",
-    "node_modules/oniguruma-to-es/README.md",
-    "node_modules/vfile-message/readme.md",
-    "docs/public/m.svg",
     "docs/public/images/osaka6.gif",
     "docs/public/images/osaka5.gif",
     "docs/public/images/osaka4.gif",
@@ -255,9 +241,6 @@
     "docs/public/images/osaka2.gif",
     "docs/public/images/joel.webp",
     "docs/public/images/ninja.jpeg",
-    "docs/public/images/fren.gif",
-    "docs/public/images/joel2.gif",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
