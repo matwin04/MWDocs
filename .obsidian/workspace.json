@@ -13,15 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API Docs for public transportation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Docs for public transportation"
+              "title": "README"
+            }
+          },
+          {
+            "id": "ac3a283f82fecdca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/COM101/Text Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Text Review"
+            }
+          },
+          {
+            "id": "0ee391e512f90469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SaWhatTheHelly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SaWhatTheHelly"
+            }
+          },
+          {
+            "id": "04c1c16980caf0e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lens Flare.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lens Flare"
+            }
+          },
+          {
+            "id": "c9e3d2e60a7e72df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-23"
+            }
+          },
+          {
+            "id": "6b6c60b4d33f5bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/LibResearch Criteria Persuasion Topic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LibResearch Criteria Persuasion Topic"
+            }
+          },
+          {
+            "id": "aabe0eca1316dc2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -53,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#POLT",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API Docs for public transportation.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of API Docs for public transportation"
+              "title": "Outline of README"
             }
           },
           {
@@ -176,11 +261,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,48 +278,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5ece34fb104add9",
+  "active": "aabe0eca1316dc2e",
   "lastOpenFiles": [
-    "README.md",
-    "Pasted image 20250616094534.png",
-    "Pasted image 20250616103214.png",
     "The Situation.canvas",
-    "School/COM101/Homework/10PersuasionTopics.md",
-    "School/COM101/Homework.md",
-    "School/COM101/Homework/5 Text Articles.md",
-    "School/COM101/COM101.md",
-    "Homework",
-    "School/COM101/Homework",
-    "docs/api-examples.md",
-    "API Docs for public transportation.md",
-    "routes/r-9q5c-metrokline.md",
-    "docs/markdown-examples.md",
-    "School/School Index.md",
-    "School/Untitled.md",
-    "School/School Index 1.md",
-    "School/COM101",
-    "School",
     "docs/index.md",
-    "docs/about.md",
-    "docs/public/m.svg",
+    "School/COM101/Homework/WOLTextReview.md",
+    "School/COM101/Homework/10PersuasionTopics.md",
+    "School/COM101/COM101.md",
+    "School/COM101/Text Review.md",
+    "School/COM101/Text Review (conflicted copy 2025-06-22 142722).md",
+    "School/LibResearch Criteria Persuasion Topic.md",
+    "School/School Index.md",
+    "GEO101.md",
+    "README.md",
+    "SaWhatTheHelly.md",
+    "Lens Flare.md",
+    "6-23.md",
+    "routes/r-9q5c-metrokline.md",
     "routes",
-    "node_modules/character-entities-legacy/readme.md",
-    "node_modules/character-entities-legacy/index.js",
-    "node_modules/character-entities-legacy/license",
-    "node_modules/character-entities-legacy/package.json",
-    "node_modules/character-entities-legacy/index.d.ts",
-    "node_modules/character-entities-legacy",
-    "node_modules/@esbuild/darwin-arm64/README.md",
-    "node_modules/mitt/README.md",
-    "node_modules/source-map-js/README.md",
-    "node_modules/fsevents/README.md",
-    "node_modules/birpc/README.md",
-    "node_modules/copy-anything/README.md",
-    "node_modules/entities/readme.md",
-    "node_modules/search-insights/README.md",
-    "node_modules/search-insights/LICENSE.md",
-    "node_modules/focus-trap/SECURITY.md",
-    "node_modules/focus-trap/README.md",
+    "docs/public/m.svg",
+    "docs/public",
+    "docs/markdown-examples.md",
+    "docs/index.md.tmp.html",
+    "docs/api-examples.md",
+    "docs/about.md",
+    "docs",
+    "School/COM101/Homework.md",
+    "School/COM101/Notes/6-18.md",
+    "School/COM101/Notes/6-17.md",
+    "School/COM101/Homework/5 Text Articles.md",
+    "School/GEO101/GEO101.md",
+    "Index.md",
+    "school/COM101/6-17.md",
+    "school/COM101/Homework/5 Text Articles.md",
+    "school/COM101/Homework/10PersuasionTopics.pdf",
+    "school/COM101/Notes",
+    "school/COM101/Homework",
+    "school/COM101",
+    "6",
+    "Pasted image 20250616103214.png",
+    "Pasted image 20250616094534.png",
+    "School/COM101/Notes",
     "docs/public/images/osaka6.gif",
     "docs/public/images/osaka5.gif",
     "docs/public/images/osaka4.gif",

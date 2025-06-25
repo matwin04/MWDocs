@@ -17,7 +17,3 @@ features:
     title: My Github Account
     details: Nothing
 ---
-```mermiad
-git:
-	
-```
