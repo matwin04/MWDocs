@@ -16,4 +16,9 @@ features:
   - icon: GH
     title: My Github Account
     details: Nothing
+  - icon: RG
+    title: Linux Ricing Docs
+    link: /ricegum 
 ---
+
+[Projects](/projects)

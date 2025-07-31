@@ -6,8 +6,8 @@ export default {
     siteTitle: "MWAPIDocs",
     nav: [
       {text: "About", link: "about"},
-      {text: "APIs", link: "/apis"},
-      {text: "Projects", link: "/projects"},
+      {text: "Linux Ricing", link: "/ricegum"},
+      {text: "Self Hosted", link: "/selfhost"},
     ],
     socialLinks: [
       {icon: "github", link: "https://github.com/matwin04"},

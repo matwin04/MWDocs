@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "e7279e1b5e8acb1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b674576cd762e57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c557e01091a7ca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vpexamples/markdown-examples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "markdown-examples"
+            }
+          },
+          {
+            "id": "85e8bc5e74fbb908",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ricegum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ricegum"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db919e7ea19984f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cc261eb6fef5099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8b74583919a5f66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f428e46985b3995c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f6e7e160b1ce1a6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6ac16218a529ed3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "911b903d09a70205",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269da7acb34227af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ricegum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ricegum"
+            }
+          },
+          {
+            "id": "08b526cbc3f6497f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ricegum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ricegum"
+            }
+          },
+          {
+            "id": "16958ddb4c0c40bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8738f3b5f8e6b2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ricegum.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ricegum"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "85e8bc5e74fbb908",
+  "lastOpenFiles": [
+    "Ricegum.md.sb-1925fdc3-2ZAtFQ",
+    "projects.md",
+    "Ricegum.md",
+    "index.md",
+    "projects.md.tmp.html",
+    "projects~.md",
+    "untitled file.md",
+    "index~.md",
+    "index.md.tmp.html",
+    "vpexamples/api-examples.md",
+    "vpexamples/markdown-examples.md",
+    "vpexamples",
+    "about.md"
+  ]
+}
