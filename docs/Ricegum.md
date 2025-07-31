@@ -28,5 +28,5 @@ cd ~/.local/share/icons
 - https://www.gnome-look.org/p/2285651/
 - https://www.xfce-look.org/p/2076848
 - https://www.xfce-look.org/p/1679327/
-- 
+- Yo
 
