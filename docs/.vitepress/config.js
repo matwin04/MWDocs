@@ -6,7 +6,7 @@ export default {
     siteTitle: "MWAPIDocs",
     nav: [
       {text: "About", link: "about"},
-      {text: "Linux Ricing", link: "ricegum"},
+      {text: "Linux Ricing", link: "rice"},
       {text: "Self Hosted", link: "selfhost"},
     ],
     socialLinks: [

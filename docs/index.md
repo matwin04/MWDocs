@@ -18,7 +18,7 @@ features:
     details: Nothing
   - icon: RG
     title: Linux Ricing Docs
-    link: ricegum 
+    link: rice 
 ---
 
 [Projects](/projects)
