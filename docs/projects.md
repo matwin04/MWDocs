@@ -1,5 +1,2 @@
 # Projects
-[Ricegum](/ricegum)
-## XFCE
-
-### 
+[RICE](/rice)
