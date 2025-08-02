@@ -22,3 +22,6 @@ features:
 ---
 
 [Projects](/projects)
+[Self Hosted](/selfhosted)
+
+[Metro](/metro)

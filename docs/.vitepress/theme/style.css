@@ -137,3 +137,13 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+h1 {
+    color: blue;
+    font-size: 2em;
+}
+p {
+    line-height: 1.5;
+}
+#m2 {
+  color: #E6001C
+}

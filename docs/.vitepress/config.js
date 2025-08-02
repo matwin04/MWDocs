@@ -7,7 +7,7 @@ export default {
     nav: [
       {text: "About", link: "about"},
       {text: "Linux Ricing", link: "rice"},
-      {text: "Self Hosted", link: "selfhost"},
+      {text: "Self Hosted", link: "selfhosted"},
     ],
     socialLinks: [
       {icon: "github", link: "https://github.com/matwin04"},
