@@ -20,8 +20,9 @@ features:
     title: Linux Ricing Docs
     link: rice 
 ---
-
-[Projects](/projects)
-[Self Hosted](/selfhosted)
-
-[Metro](/metro)
+## Pages
+- [Projects](/projects)
+- [Self Hosted](/selfhosted)
+- [Metro](/metro)
+- [Camera Equipment](/cam)
+- 
