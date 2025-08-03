@@ -29,4 +29,8 @@ cd ~/.local/share/icons
 - https://www.xfce-look.org/p/2076848
 - https://www.xfce-look.org/p/1679327/
 - Yo
+- Gurt
+- https://www.xfce-look.org/p/1173216
+- https://www.pling.com/p/2306353/
+- 
 
